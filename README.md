@@ -5,7 +5,7 @@ Design and implement a network-based security monitoring system for a local area
 
 
 
-**Project Overview:**
+## Project Overview:
 
 1. **Client-Server Architecture:** 🕊️ This project features a classic client-server setup, where two distinct programs communicate over a network (in this case, a local area network or LAN).
 
@@ -24,7 +24,7 @@ Design and implement a network-based security monitoring system for a local area
 
 5. **Security and Monitoring:** 🔒🔍 The project serves as a mini watchdog. It's like a digital guardian angel, identifying potential bad deeds—like venturing into harmful websites or fiddling with iffy software.
 
-**Key Learning Points:**
+## Key Learning Points:
 
 - **Network Communication:** 🌐 You master the art of establishing a connection between two parties over a network, employing the mystical power of sockets. 🧙‍♂️
 
@@ -34,7 +34,7 @@ Design and implement a network-based security monitoring system for a local area
 
 - **Basic Monitoring:** 🔎 The client script lays the groundwork for more sophisticated monitoring systems. It's like dipping your toes into the vast ocean of monitoring possibilities.
 
-**Project Scope and Enhancements:**
+## Project Scope and Enhancements:
 
 - Building more advanced monitoring techniques and security checks is like leveling up your skills in a video game 🎮. You're the hero of your own code adventure!
 
