@@ -1,2 +1,3 @@
 # Network-Based-Malicious-Activity-Detection
-Create a LAN-based security system with a server and clients. The server monitors browser windows and clipboard data, cross-references them with a malicious list, and takes action on suspicious activity to enhance LAN security.
+
+Design and implement a network-based security monitoring system for a local area network (LAN). The system consists of a server and multiple clients. The server monitors client activity, including the titles of active browser windows and clipboard contents, and cross-references this data with a predefined list of malicious URLs and programs stored in a CSV file. If the server detects any potentially malicious activity, it takes appropriate action, such as terminating the offending program or blocking access to the malicious URL. The system aims to enhance network security by proactively identifying and addressing suspicious behavior on client computers within the LAN.  
